@@ -25,6 +25,8 @@ covers:
 - cover_type: archival
   image_path: 45737-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45737#A-Popular-Handbook-to-the-National-Gallery-Volume-I-Foreign-SchoolsWorks-of-John-Ruskin
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
